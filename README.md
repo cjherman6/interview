@@ -28,5 +28,7 @@
 * 111: Visit frequently, recently, and high spend
 * 311 & 411: High spend and frequency but hasn't visted in a while, worth retention efforts?
 * 444: Low value customer
+* 441: One large repair
+* 114: Frequent small visits
 
 ![rfmscores](/images/rfmscores.png)
