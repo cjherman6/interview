@@ -1,6 +1,6 @@
 # Interview
 
-## Skills I can Bring to the table
+## A few skills I can bring to the table
 
 ## Customer Segmentation (RFM)
 
