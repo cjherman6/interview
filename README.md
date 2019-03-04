@@ -40,6 +40,55 @@
 
 ![rfmscores](/images/rfmscores.png)
 
-## Predictive Analysis
+================================================
 
-### Churn Prediction 
+================================================
+
+## Predictive Analysis & Interpretation
+
+##### These methods can be used to predict probabilities of any sort of data (i.e. What is the probability an individual or a customer segment will churn?)
+
+### Example (Churn Prediction):
+
+![churndata](/images/churndata.png)
+
+### Feature Importance
+#### What are the factors that contribute most to our metric of interest:
+![featureimportance](/images/featureimportance.png)
+
+### Partial Dependence
+#### If a factor is important, what is it's relationship to our metric of interest:
+
+![overtime](/images/overtime.png)
+_Workers doing overtime more likely to churn_
+
+![maritalstatus](/images/maritalstatus.png)
+_Single workers more likely to churn_
+
+![monthlyincome](/images/monthlyincome.png)
+_Single workers more likely to churn_
+
+![age](/images/age.png)
+_Younger workers more likely to churn_
+
+![totalworkingyears](/images/totalworkingyears.png)
+_Newer workers more likely to churn_
+
+### Tree Interpretation:
+
+### Global:
+
+![rangeinterpret](/images/rangeinterpret.png)
+_Red grouping is individuals most likely to churn, what are the factors contributing to this group?_
+
+### Individual:
+
+![indinterpret](/images/indinterpret.png)
+_Works overtime, monthly income < $2,500, single, works in sales_
+## What levers can we pull?
+
+### Can't: Marital Status, Age, Total Working Years
+### Can: Pay & Overtime
+
+# Experiment:
+### What if we focus on work life balance and keep younger workers from having to work overtime?
