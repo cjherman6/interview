@@ -2,7 +2,7 @@
 
 ## Skills I can Bring to the table
 
-## Customer Segmentation (RFM & K - Means Clusters)
+## Customer Segmentation (RFM)
 
 ### RFM (Recency, Frequency, Monetary Value)
 
@@ -39,3 +39,7 @@
 
 
 ![rfmscores](/images/rfmscores.png)
+
+## Predictive Analysis
+
+### Churn Prediction 
