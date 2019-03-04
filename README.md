@@ -91,4 +91,40 @@ _Works overtime, monthly income < $2,500, single, works in sales_
 ### Can: Pay & Overtime
 
 # Experiment:
-### What if we focus on work life balance and keep younger workers from having to work overtime?
+
+## How does Overtime affect churn?
+
+![overall_ot_churn](/images/overall_ot_churn.png)
+
+_Comparing Churn between Non-Overtime & Overtime Workers_
+
+* Churn Rate for Non-Overtime: 10.44%
+* Churn Rate for Overtime: 30.52%
+
+
+### Young, single workers are the demographic with the highest risk of churn, What if we focus on overtime for them and see how it affects attrition?
+
+![young_single_churn](/images/young_single_churn.png)
+
+* Churn Rate for Non-Overtime: 29.67%
+* Churn Rate for Overtime: 67.50%
+
+### What about those that are also underpaid?
+
+![young_single_lowpay_churn](/images/young_single_lowpay_churn.png)
+
+
+* Churn Rate for Non-Overtime: 38.46%
+* Churn Rate for Overtime: 77.27%
+
+### How does OT affect those outside of this high risk group?
+
+![older_notsingle](/images/older_notsingle.png)
+
+* Churn Rate for Non-Overtime: 7.14%
+* Churn Rate for Overtime: 16.88%
+
+### How to monetize:
+
+#### What are the levers we can pull to move our metrics?
+* Prevent OT from occuring with high-churn-risk groups
