@@ -128,3 +128,4 @@ _Comparing Churn between Non-Overtime & Overtime Workers_
 
 #### What are the levers we can pull to move our metrics?
 * Prevent OT from occuring with high-churn-risk groups
+* Model can also predict who is a high risk and we can focus our efforts on retention with high probability individuals
