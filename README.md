@@ -100,6 +100,8 @@ _Comparing Churn between Non-Overtime & Overtime Workers_
 
 * Churn Rate for Non-Overtime: 10.44%
 * Churn Rate for Overtime: 30.52%
+* Z-Score: 9.43
+* p-value: 3.86 e-21
 
 
 ### Young, single workers are the demographic with the highest risk of churn, What if we focus on overtime for them and see how it affects attrition?
